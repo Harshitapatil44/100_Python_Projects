@@ -39,6 +39,8 @@ Goals of this Repository :-
 Technologies Used :- 
 - Python 3
 
+This repository is continuously updated with new problems and concepts as part of my learning journey in Python.
+
 Author :- 
 Harshita Patil  
 Python Learner
