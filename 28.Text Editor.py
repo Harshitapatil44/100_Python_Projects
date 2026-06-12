@@ -27,16 +27,14 @@ while True:
     if choice == "1":
         content = input("Enter text: ")
         editor.write(content + "\n")
-
     elif choice == "2":
         editor.show()
-
     elif choice == "3":
         editor.clear()
-
     elif choice == "4":
         print("Exiting...")
         break
-
     else:
         print("Invalid Choice")
+
+
