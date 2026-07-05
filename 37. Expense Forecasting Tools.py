@@ -1,5 +1,3 @@
-# Expense Forecasting Tool
-
 expenses = []
 
 n = int(input("Enter number of months: "))
