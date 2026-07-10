@@ -2,7 +2,6 @@ import requests
 
 coin = input("Enter cryptocurrency (bitcoin, ethereum, dogecoin): ").lower()
 
-# API URL
 url = f"https://api.coingecko.com/api/v3/simple/price?ids={coin}&vs_currencies=usd,inr"
 
 # Get data
