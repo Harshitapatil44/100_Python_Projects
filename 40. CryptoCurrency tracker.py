@@ -1,6 +1,5 @@
 import requests
 
-# Input cryptocurrency name
 coin = input("Enter cryptocurrency (bitcoin, ethereum, dogecoin): ").lower()
 
 # API URL
