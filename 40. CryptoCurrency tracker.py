@@ -7,7 +7,6 @@ url = f"https://api.coingecko.com/api/v3/simple/price?ids={coin}&vs_currencies=u
 response = requests.get(url)
 data = response.json()
 
-# Display result
 if coin in data:
     print("\nCryptocurrency Price")
     print("--------------------")
