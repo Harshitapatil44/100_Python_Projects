@@ -1,5 +1,3 @@
-# Simple Recipe Recommender System
-
 recipes = {
     "Pasta": ["pasta", "tomato", "cheese"],
     "Vegetable Sandwich": ["bread", "tomato", "cucumber", "cheese"],
