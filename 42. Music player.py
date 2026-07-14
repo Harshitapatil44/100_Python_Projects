@@ -1,7 +1,6 @@
 from tkinter import *
 import pygame
 
-# Initialize pygame mixer
 pygame.mixer.init()
 
 # Create window
