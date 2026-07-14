@@ -7,7 +7,6 @@ root = Tk()
 root.title("Simple Music Player")
 root.geometry("300x200")
 
-# Load music
 pygame.mixer.music.load("song.mp3")
 
 # Functions
