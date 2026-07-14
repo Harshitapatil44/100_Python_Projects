@@ -21,7 +21,6 @@ def resume_music():
 def stop_music():
     pygame.mixer.music.stop()
 
-# Buttons
 Button(root, text="Play", command=play_music).pack(pady=5)
 Button(root, text="Pause", command=pause_music).pack(pady=5)
 Button(root, text="Resume", command=resume_music).pack(pady=5)
