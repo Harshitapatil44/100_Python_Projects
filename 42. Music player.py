@@ -1,5 +1,6 @@
 # Over Command prompt: 
 pip install pillow
+pip install pygame
 
 from tkinter import *
 import pygame
