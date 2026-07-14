@@ -3,7 +3,6 @@ import pygame
 
 pygame.mixer.init()
 
-# Create window
 root = Tk()
 root.title("Simple Music Player")
 root.geometry("300x200")
