@@ -1,3 +1,4 @@
+# Over Command prompt: 
 pip install pillow
 
 from tkinter import *
