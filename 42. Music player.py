@@ -9,7 +9,6 @@ root.geometry("300x200")
 
 pygame.mixer.music.load("song.mp3")
 
-# Functions
 def play_music():
     pygame.mixer.music.play()
 
