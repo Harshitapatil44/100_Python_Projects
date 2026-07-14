@@ -1,3 +1,5 @@
+pip install pillow
+
 from tkinter import *
 import pygame
 
