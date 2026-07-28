@@ -1,6 +1,6 @@
 import random
 
-print("🎉 Welcome to Bingo Number Generator 🎉")
+print("Welcome to Bingo Number Generator")
 
 numbers = list(range(1, 91))
 random.shuffle(numbers)
